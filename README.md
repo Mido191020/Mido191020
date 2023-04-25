@@ -1,8 +1,7 @@
-<h1 align="center">🚀 Hello, I'm Ahmed Tarek!</h1>
+<h1 align="center">🚀 Hello, I'm Ahmed Tarek! ♥</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCp0B6/giphy.gif" alt="Coding GIF" width="380" height="280">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 </p>
-<p align="center">I'm a software engineer and welcome to my profile!</p>
 <br/>
 <p align="center">
   📫 Connect with me: 
