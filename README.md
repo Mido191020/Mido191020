@@ -34,5 +34,6 @@
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+software+engineer;Welcome+to+my+profile!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:red" />
 </p>
+
