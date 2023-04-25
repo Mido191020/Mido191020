@@ -1,9 +1,8 @@
-<h1 align="center">🚀 Hello! My Name is Ahmed ♥</h1>
+<h1 align="center">🚀 Hello, I'm Ahmed Tarek!</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/26BRv0ThflsHCp0B6/giphy.gif" alt="Coding GIF" width="380" height="280">
 </p>
-<h3 align="center">About Me</h3>
-<p align="center">I'm currently an undergraduate student in computer science, a highly motivated back-end engineer with a passion for learning and gaining more knowledge and experience to achieve success for myself and my organization.</p>
+<p align="center">I'm a software engineer and welcome to my profile!</p>
 <br/>
 <p align="center">
   📫 Connect with me: 
@@ -35,4 +34,4 @@
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtarek2137&show_icons=true
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I'm+a+software+engineer;Nice+to+meet+you!&center
