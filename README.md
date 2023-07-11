@@ -18,7 +18,7 @@
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://github.com/Mido191020/Leet_Code">
-<img alt="Leet_Code Logo" src="https://raw.githubusercontent.com/Mido191020/Leet_Code/main/leet_code_logo.png" />
+<img alt="Leet_Code Logo" src="https://raw.githubusercontent.com/Mido191020/Leet_Code/main/leet_code_alt_logo.png" />
 
   </a>
   <a href="https://github.com/Mido191020/">
