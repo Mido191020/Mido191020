@@ -17,9 +17,10 @@
   <a href="https://codeforces.com/profile/midoxmax">
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://github.com/Mido191020/Leet_Code">
-    <img alt="solve leet code problems"src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
+ <a href="https://github.com/Mido191020/Leet_Code">
+    <img alt="solve leet code problems" src="https://raw.githubusercontent.com/johnnymillergh/MaterialLibrary/master/iLeetCode%20Assets/iLeetCode%20Feature%20Graphic.png" />
+</a>
+
   <a href="https://github.com/Mido191020/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
