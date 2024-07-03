@@ -67,9 +67,16 @@ I'm a passionate Computer Science student from Cairo, Egypt, specializing in bac
   <a href="https://github.com/Mido191020">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+201095732445">
-    <img alt="Phone" src="https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mido191020&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <a href="https://github.com/Mido191020">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mido191020&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Ahmed Tarek's GitHub Activity Graph" />
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mido191020&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
