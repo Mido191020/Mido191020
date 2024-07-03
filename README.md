@@ -37,15 +37,15 @@ I'm a passionate Computer Science student from Cairo, Egypt, specializing in bac
 
 ## 🚀 Projects
 
-### [Chat Application](https://github.com/Mido191020/Chat-Application.git)
+### [Chat Program](https://github.com/Mido191020/Chat_Program)
 - C# Windows Forms and WebSocket chat app for real-time messaging over local networks
 - Implemented SQL Server database storage for chat logs with sender and receiver IP addresses
 
-### [Local Library Website](https://github.com/Mido191020/express-locallibrary-tutorial.git)
+### [Local Library Website](https://github.com/Mido191020/Local-Library-website)
 - Developed using Node.js, Express, and MongoDB
 - Online catalog for a small local library, allowing users to browse books and manage accounts
 
-### [Subscriber Management System](https://github.com/Mido191020/BackEnd-Project.git)
+### [Subscribers CRUD](https://github.com/Mido191020/subscribers-CRUD)
 - CRUD app for managing subscribers using Node.js, Express, and MongoDB
 - Implemented API endpoints for CRUD operations on subscriber data
 
