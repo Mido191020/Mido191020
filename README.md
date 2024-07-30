@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Computer Science student from Cairo, Egypt, specializing in backend development. With a strong foundation in databases, algorithms, and data structures, I'm dedicated to applying my knowledge to real-world projects. I'm constantly seeking opportunities to learn and grow in the ever-evolving world of technology.
+I'm a Computer Science student from Cairo, Egypt, focusing on backend development. I have a solid foundation in databases, algorithms, and data structures, and I'm eager to apply this knowledge to impactful projects. Always keen to learn and grow, I am excited about new challenges in technology and software development.
 
 - 🎓 Studying Computer Science at Ahram Canadian University (ACU), Cairo
 - 🚀 Expected to graduate in July 2025
@@ -19,11 +19,11 @@ I'm a passionate Computer Science student from Cairo, Egypt, specializing in bac
 
 ## 🛠 Skills
 
-- **Languages:** JavaScript, C#, C++
-- **Frameworks/Libraries:** Node.js, Express
+- **Languages:** JavaScript, C#, C++, Python
+- **Frameworks/Libraries:** Node.js, Express, Tkinter
 - **Databases:** SQL, MongoDB
-- **Tools:** Git, GitHub
-- **Other:** Data Structures and Algorithms, Networking, WebSocket, WinForms
+- **Tools:** Git, GitHub, Docker
+- **Other:** Data Structures, Algorithms, Networking, WebSocket, WinForms, Cryptography
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -38,22 +38,24 @@ I'm a passionate Computer Science student from Cairo, Egypt, specializing in bac
 ## 🚀 Projects
 
 ### [Chat Program](https://github.com/Mido191020/Chat_Program)
-- C# Windows Forms and WebSocket chat app for real-time messaging over local networks
-- Implemented SQL Server database storage for chat logs with sender and receiver IP addresses
-
+- Developed a real-time chat application using C# and Windows Forms with WebSocket for local network messaging.
+- Implemented SQL Server for storing chat logs and user information, creating a robust server-client architecture.
+- Technologies Used: C#, Windows Forms, SQL Server, WebSocket
 ### [Local Library Website](https://github.com/Mido191020/Local-Library-website)
-- Developed using Node.js, Express, and MongoDB
-- Online catalog for a small local library, allowing users to browse books and manage accounts
+-Built with Node.js, Express, and MongoDB, this project provides an online catalog for managing a small library's book collection and user accounts.
+-Enables users to search for books and handle account details efficiently.
+-Technologies Used: Node.js, Express, MongoDB
 
 ### [Subscribers CRUD](https://github.com/Mido191020/subscribers-CRUD)
-- CRUD app for managing subscribers using Node.js, Express, and MongoDB
-- Implemented API endpoints for CRUD operations on subscriber data
+-Created a CRUD application to manage subscriber information using Node.js, Express, and MongoDB.
+-Developed API endpoints for full CRUD operations, enhancing data management capabilities.
+-Technologies Used: Node.js, Express, MongoDB
 
 ## 🌟 Other Activities
 
-- **ECPC Community:** Active participant providing problem-solving guidance
-- **Computer Science Student Union:** Contributing member offering support to peers
-- **YouTube Channel:** Established and managed a channel for mentoring fellow students
+- **ECPC Community:** Engaged participant offering guidance and mentorship in problem-solving techniques.
+- **Computer Science Student Union:** Contributing member, providing support and resources to fellow students.
+- **YouTube Channel:** Launched and managed a channel dedicated to mentoring and guiding peers in computer science topics.
 
 ## 📫 Connect with Me
 
