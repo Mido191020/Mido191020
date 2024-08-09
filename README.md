@@ -37,19 +37,24 @@ I'm a Computer Science student from Cairo, Egypt, focusing on backend developmen
 
 ## 🚀 Projects
 
+### [CV Repository](https://github.com/Mido191020/AhmedTarek_cv)
+- My personal CV repository, showcasing my professional experience, skills, and achievements.
+- Regularly updated to reflect my latest accomplishments and growth.
+
 ### [Chat Program](https://github.com/Mido191020/Chat_Program)
 - Developed a real-time chat application using C# and Windows Forms with WebSocket for local network messaging.
 - Implemented SQL Server for storing chat logs and user information, creating a robust server-client architecture.
 - Technologies Used: C#, Windows Forms, SQL Server, WebSocket
+
 ### [Local Library Website](https://github.com/Mido191020/Local-Library-website)
--Built with Node.js, Express, and MongoDB, this project provides an online catalog for managing a small library's book collection and user accounts.
--Enables users to search for books and handle account details efficiently.
--Technologies Used: Node.js, Express, MongoDB
+- Built with Node.js, Express, and MongoDB, this project provides an online catalog for managing a small library's book collection and user accounts.
+- Enables users to search for books and handle account details efficiently.
+- Technologies Used: Node.js, Express, MongoDB
 
 ### [Subscribers CRUD](https://github.com/Mido191020/subscribers-CRUD)
--Created a CRUD application to manage subscriber information using Node.js, Express, and MongoDB.
--Developed API endpoints for full CRUD operations, enhancing data management capabilities.
--Technologies Used: Node.js, Express, MongoDB
+- Created a CRUD application to manage subscriber information using Node.js, Express, and MongoDB.
+- Developed API endpoints for full CRUD operations, enhancing data management capabilities.
+- Technologies Used: Node.js, Express, MongoDB
 
 ## 🌟 Other Activities
 
@@ -70,6 +75,7 @@ I'm a Computer Science student from Cairo, Egypt, focusing on backend developmen
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mido191020&theme=dark" alt="GitHub Streak" />
