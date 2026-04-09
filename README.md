@@ -1,17 +1,17 @@
 # Ahmed Tarek
-**Computer Science Student | Backend & Systems Engineering**
+**Backend & Systems Engineering**
 
-I am a Computer Science student at Ahram Canadian University, focused on building robust backend systems and understanding low-level computing. My current work revolves around Operating Systems internals, Memory Management, and Database Architecture.
+I'm a Computer Science student at Ahram Canadian University. I like building software that is useful, solid, and clear about how it works under the hood. Most of my time goes into backend work, operating systems, memory management, and networking.
 
-### 🛠 Technical Stack
-* **Languages:** C, C++, C#, JavaScript (Node.js), SQL, Python.
-* **Core Concepts:** Data Structures & Algorithms, OS Architecture, Memory Management, Networking (TCP/IP).
-* **Tools:** Git, Docker, Linux, SQL Server, MongoDB.
+### What I work with
+* **Languages:** C, C++, C#, JavaScript (Node.js), SQL, Python
+* **Core topics:** Operating systems, data structures, memory management, networking, and databases
+* **Tools:** Git, Docker, Linux, SQL Server, MongoDB
 
-### 🚀 Key Projects
-* **[Writing-my-own-malloc](https://github.com/Mido191020/Writing-my-own-malloc):** A custom implementation of the C standard library's memory allocation functions (`malloc`) built from scratch to understand heap management, block splitting, and coalescing.
-* **[Chat Program](https://github.com/Mido191020/Chat_Program):** Real-time chat application using C#, WinForms, and WebSockets with a SQL Server backend for message persistence.
-* **[my-book-library](https://github.com/Mido191020/my-book-library):** A library management system built with Node.js, Express, and MongoDB to handle book cataloging and user accounts efficiently.
+### Selected projects
+* **[Writing-my-own-malloc](https://github.com/Mido191020/Writing-my-own-malloc):** A from-scratch implementation of `malloc` focused on heap management, block splitting, and coalescing.
+* **[Chat Program](https://github.com/Mido191020/Chat_Program):** A real-time chat app built with C#, WinForms, WebSockets, and SQL Server.
+* **[my-book-library](https://github.com/Mido191020/my-book-library):** A library management system built with Node.js, Express, and MongoDB.
 
 ---
 [Email](mailto:midotark@icloud.com) • [LinkedIn](https://www.linkedin.com/in/ahmed-tarek-a3063019b)
