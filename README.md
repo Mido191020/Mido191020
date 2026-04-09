@@ -9,9 +9,9 @@ I'm a Computer Science student at Ahram Canadian University. I like building sof
 * **Tools:** Git, Docker, Linux, SQL Server, MongoDB
 
 ### Selected projects
+* **[dns-proxy-cache](https://github.com/Mido191020/dns-proxy-cache):** A custom DNS proxy cache in C that handles UDP queries, TTL-based caching, and TCP fallback using POSIX sockets.
+* **[Task Management System](https://github.com/Mido191020/Task-Management-System):** A low-level design project for managing tasks, priorities, assignments, and status flow with a focus on clean architecture.
 * **[Writing-my-own-malloc](https://github.com/Mido191020/Writing-my-own-malloc):** A from-scratch implementation of `malloc` focused on heap management, block splitting, and coalescing.
-* **[Chat Program](https://github.com/Mido191020/Chat_Program):** A real-time chat app built with C#, WinForms, WebSockets, and SQL Server.
-* **[my-book-library](https://github.com/Mido191020/my-book-library):** A library management system built with Node.js, Express, and MongoDB.
 
 ---
 [Email](mailto:midotark@icloud.com) • [LinkedIn](https://www.linkedin.com/in/ahmed-tarek-a3063019b)
